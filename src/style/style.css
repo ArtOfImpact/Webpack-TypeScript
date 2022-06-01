@@ -1,0 +1,16 @@
+@import './font.css';
+@import '~normalize.css';
+
+div {
+    background-color: brown;
+    margin: auto;
+    width: 1336px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-family: 'Source', sans-serif;
+    color: black;
+}
